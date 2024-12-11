@@ -8,10 +8,8 @@ A full-stack application replicating the Lululemon e-commerce platform, built us
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Folder Structure](#folder-structure)
-- [API Endpoints](#api-endpoints)
 - [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
+
 
 ## Overview
 
